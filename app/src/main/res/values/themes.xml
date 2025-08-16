@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.Camera" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Temanın temel renkleri -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Arka plan rengi -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- StatusBar rengi -->
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
